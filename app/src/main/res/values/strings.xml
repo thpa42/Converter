@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Trip Time/Distance Calculator</string>
+    <string name="distance_to_travel">Distance to Travel(mi):</string>
+</resources>
